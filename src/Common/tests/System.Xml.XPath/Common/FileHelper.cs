@@ -21,5 +21,16 @@ namespace XPathTests.Common
             }
             return s;
         }
+        
+        public static Stream CreateStreamFromFile1(string xml)
+        {
+            var xmlPath = Utils.ResourceFilesPath + xml;
+            Stream s = typeof(FileHelper).GetTypeInfo().Assembly.GetManifestResourceStream(xmlPath);
+            if (s == null)
+            {
+                throw new Exception("Couldn't find resource.");
+            }
+            return s;
+        }
     }
 }
