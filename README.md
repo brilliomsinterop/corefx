@@ -43,6 +43,25 @@ Today, the repository contains the following components:
 * **System.IO.Pipes**. Provides types that enable a means for interprocess communication through anonymous 
   and/or named pipes.
 
+//Test changes from babu 
+
+* **System.Collections.Immutable**. Provides a set of immutable collection types that make it easy to keep
+  mutable state under control without sacrificing performance or memory
+  footprint. You can read more about them on [MSDN][immutable-msdn].
+
+* **System.Console**. Provides the Console class, which enables access to the standard input, 
+  output, and error streams for console-based applications.
+
+* **System.Diagnostics.FileVersionInfo**. Provides useful functionality for querying
+  and examining the version information of physical files on disk.
+
+* **System.Diagnostics.Process**. Provides access to local and remote processes, and enables the starting and
+  stopping of local system processes.
+
+* **System.IO.Pipes**. Provides types that enable a means for interprocess communication through anonymous 
+  and/or named pipes.
+
+
 * **System.Linq.Parallel**.  Provides a parallelized implementation of LINQ to Objects. "Parallel LINQ" (PLINQ) 
   implements the full set of LINQ standard query operators as well as additional operators specific to parallel operations.
 
