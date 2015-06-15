@@ -13,5 +13,10 @@ namespace XPathTests.Common
             CurrentPosition = currentPosition;
             Results = resultTokens;
         }
+        public XPathResult1(int currentPosition, params XPathResultToken[] resultTokens)
+        {
+            CurrentPosition = currentPosition;
+            Results = resultTokens;
+        }
     }
 }
