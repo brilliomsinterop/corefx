@@ -22,7 +22,34 @@ notified as we make changes to and expand it. Check out this [blog post] that
 explains our OSS strategy and road map in more detail.
 
 Today, the repository contains the following components:
+This repository contains the class libraries for .NET Core. This is a
+work in progress, and does not currently contain the entire set of libraries
+that we plan on open sourcing. Make sure to watch this repository in order to be
+notified as we make changes to and expand it. Check out this [blog post] that
+explains our OSS strategy and road map in more detail.
 
+Today, the repository contains the following components:
+This repository contains the class libraries for .NET Core. This is a
+work in progress, and does not currently contain the entire set of libraries
+that we plan on open sourcing. Make sure to watch this repository in order to be
+notified as we make changes to and expand it. Check out this [blog post] that
+explains our OSS strategy and road map in more detail.
+
+Today, the repository contains the following components:
+This repository contains the class libraries for .NET Core. This is a
+work in progress, and does not currently contain the entire set of libraries
+that we plan on open sourcing. Make sure to watch this repository in order to be
+notified as we make changes to and expand it. Check out this [blog post] that
+explains our OSS strategy and road map in more detail.
+
+Today, the repository contains the following components:
+This repository contains the class libraries for .NET Core. This is a
+work in progress, and does not currently contain the entire set of libraries
+that we plan on open sourcing. Make sure to watch this repository in order to be
+notified as we make changes to and expand it. Check out this [blog post] that
+explains our OSS strategy and road map in more detail.
+
+Today, the repository contains the following components:
 * **Microsoft.Win32.Primitives**. Provides common types supporting the implementation of Win32-based libraries.
 
 * **Microsoft.Win32.Registry**. Provides support for accessing and modifying the Windows Registry.
